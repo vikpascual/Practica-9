@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(245, 227, 205);
+    margin: 100px;
+    }
+h1#Titulo1{
+    color:rgba(90, 13, 27);
+    font-family:verdana;
+    font-size:300%;
+    text-align: center;
+    }
+h1.Titulo{
+    color:rgba(90, 13, 27);
+    font-family:verdana;
+    font-size:300%;
+    text-align: center;
+    }
+a {
+    font-family:courier;
+    font-size:160%;
+    }
+p.Superior {
+    text-align: left;
+    }
+p.Central {
+     text-align: center;
+    }
+p.Inferior {
+    text-align: right;
+    }
+img {
+    width: 150px;
+    height: 150px;
+    }
+p {
+	color: darkred;
+}
+h3 {
+    color: rgb(175, 1, 1);
+}
+p.lista {
+    color:orange;
+}
+table, th, td, tr{
+    border: 1px solid black;
+    color: darkred;
+    font-size: 110%;
+}
+table {
+    width: 100%;
+}
+th {
+    background-color: rgb(255, 236, 206)
+}
+caption {
+    color: black;
+    font-size: 110%;
+}
